@@ -12,18 +12,17 @@ This SQL project focuses on analyzing data from a music store database. The proj
   
 ## 🔍 Explore Key Insights:
 
-- Team performances across seasons 🏆
-- Player statistics: Runs, wickets, averages 🏏
-- Seasonal trends and winning patterns 📈
-- Home ground advantage exploration 🏠
-- Economy rates, strike rates, and player impact 📉
-  
+- Employee Performance, Invoice trends📈
+- Customer statistics: Distribution, Purchases, Finding the top-spending customers💰💵.
+- Popular Genres by Country,Top Selling Tracks, Duration of the Tracks🎼
+
+
 # Questions
 - [Which employee has the highest total sales?](#one)
 - [Who is the senior most employee based on level?](#two)
 - [Which country has the most Invoices?](#three)
 - [What are the top 3 values of total invoice?](#four)
-- [what is the count of customers across different countries?](#five)
+- [What is the count of customers across different countries?](#five)
 - [Which city has the best customers? Write a query that returns one city that has the highest sum of invoice totals.](#six)
 - [Who is the best customer? Write a query that returns the person who has spent the most money.](#seven)
 - [How many customers make repeat purchases?](#eight)
@@ -37,7 +36,7 @@ This SQL project focuses on analyzing data from a music store database. The proj
 
 
 ### <a id='one'>1.Which employee has the highest total sales?</a>
-- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/1f9dd827-8005-43c2-874c-fc8cc787cff6)
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/0f37ae6e-1f2c-44d5-9214-2ea7340a5562)
 
 
 ### <a id='two'>2.Who is the senior most employee based on level from employee table?</a>
@@ -45,14 +44,14 @@ This SQL project focuses on analyzing data from a music store database. The proj
 
 
 ### <a id='three'>3.Which country has the most Invoices?</a>
-- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/eac8fafe-ffbb-4056-8f96-983af7307ca4)
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/74114741-6ff8-4574-97e0-6b663382be7c)
 
 
 ### <a id='four'>4.What are the top 3 values of total invoice?</a>
 - ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/7420978a-09cd-49b5-b2eb-8e4549ece499)
 
 
-### <a id='five'>5.what is the count of customers across different countries?</a>
+### <a id='five'>5.What is the count of customers across different countries?</a>
 - ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/2be3f172-378c-4342-a4dc-dc97a838a4ac)
 
 
@@ -62,7 +61,7 @@ This SQL project focuses on analyzing data from a music store database. The proj
 
 
 ### <a id='seven'>7.Who is the best customer? Write a query that returns the person who has spent the most money.</a>
-- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/9bcc8d16-40bb-47f4-abea-99608344d320)
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/39cedbee-7c88-477b-a59b-f7ed414818f1)
 
 
 ### <a id='eight'>8.How many customers make repeat purchases?</a>
@@ -74,11 +73,11 @@ This SQL project focuses on analyzing data from a music store database. The proj
 
 
 ### <a id='ten'>10.What are the Top 10 selling tracks?</a>
-- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/a7f7bf01-3b78-4d65-8f31-a1b069e83cf0)
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/2a295372-d091-43e2-8e54-b41e2c0bc3e3)
 
 
 ### <a id='eleven'>11.Find out the most popular music genre based on the quantity purchased?</a>
-- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/c103b46e-ea19-4524-845f-65038b4f1222)
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/91c7209c-99c0-4ee6-b081-57c6be4ce370)
 
 
 ### <a id='twelve'>12.Find out the least popular music genre based on the quantity purchased?</a>
@@ -94,5 +93,6 @@ This SQL project focuses on analyzing data from a music store database. The proj
 
 
 ### <a id='fifteen'>15.Which tracks have longer durations?.Suggest 10 long music tracks to your customers.</a> 
-- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/96aa729f-528f-4252-bc96-18bf72370b3c)
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/0c57cf0d-43a1-424e-a392-b2fbe9cc5d3d)
+
 
