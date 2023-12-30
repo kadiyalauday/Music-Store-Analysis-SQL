@@ -7,8 +7,9 @@ This SQL project focuses on analyzing data from a music store database. The proj
 
 - Finding the top-spending customers in each country.
 - Determining the most popular genres among customers.
+- Finding the top-selling tracks. 
 - Analyzing sales performance over time.
-- 
+  
 ## 🔍 Explore Key Insights:
 
 - Team performances across seasons 🏆
@@ -16,75 +17,82 @@ This SQL project focuses on analyzing data from a music store database. The proj
 - Seasonal trends and winning patterns 📈
 - Home ground advantage exploration 🏠
 - Economy rates, strike rates, and player impact 📉
+  
 # Questions
-- [Find out the top 20 most popular music Genre for each country as the genre with the highest amount of purchases.](#one)
-- [Which year has the most number of matches played?](#two)
-- [Maximum wins by Mumbai Indians in 2011](#three)
-- [What is the percentage of getting bat and field in feature 'toss_descision'?](#four)
-- [In which years where taking batting second have won more number of matches?](#five)
-- [In 2019 which batsman scored highest number of runs by hitting 6's and 4's?](#six)
-- [Most number of wickets taken by a bowler](#seven)
-- [What is the strike rate of Kohli in 2016](#eight)
-- [Bowlers with maximum number of extras](#nine)
-- [Which venue has hosted most number of IPL matches?](#ten)
-- [In 2017 when sunrisers hyderabad clashed against Royal Challengers Bangalore which team player won player of the match?](#eleven)
-- [Across seasons who are the top three batsman's with most number of run out?](#twelve)
-- [What are the total runs scored by V Kohli when the bowler was JJ Burmah?](#thirteen)
-- [Across all seasons which player was dismissed the maximum number of times via caught and bowled](#fourteen)
-- [Which player has the highest hard-hitting ability?](#fifteen)
+- [Which employee has the highest total sales?](#one)
+- [Who is the senior most employee based on level?](#two)
+- [Which country has the most Invoices?](#three)
+- [What are the top 3 values of total invoice?](#four)
+- [what is the count of customers across different countries?](#five)
+- [Which city has the best customers? Write a query that returns one city that has the highest sum of invoice totals.](#six)
+- [Who is the best customer? Write a query that returns the person who has spent the most money.](#seven)
+- [How many customers make repeat purchases?](#eight)
+- [Write a query that returns the Artist name and total track count of the top 10 rock bands.](#nine)
+- [What are the Top 10 selling tracks?](#ten)
+- [Find out the most popular music genre based on the quantity purchased?](#eleven)
+- [Find out the least popular music genre based on the quantity purchased?](#twelve)
+- [Find out the most popular music Genre for each country. We determine the most popular genre as the genre with the highest amount of purchases.](#thirteen)
+- [Which tracks have shorter durations?.Suggest 10 short music tracks to your customers.](#fourteen)
+- [Which tracks have longer durations?.Suggest 10 long music tracks to your customers.](#fifteen)
 
 
-### Find out the top 20 most popular music Genre for each country as the genre with the highest amount of purchases. <a id='one'></a>
-- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/d3b736c9-d565-42fe-a3f5-7bd13d236688)
+### <a id='one'>1.Which employee has the highest total sales?</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/1f9dd827-8005-43c2-874c-fc8cc787cff6)
+
+
+### <a id='two'>2.Who is the senior most employee based on level from employee table?</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/47988dd7-6c29-4f63-bc1d-30ccd301c662)
+
+
+### <a id='three'>3.Which country has the most Invoices?</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/eac8fafe-ffbb-4056-8f96-983af7307ca4)
+
+
+### <a id='four'>4.What are the top 3 values of total invoice?</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/7420978a-09cd-49b5-b2eb-8e4549ece499)
+
+
+### <a id='five'>5.what is the count of customers across different countries?</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/2be3f172-378c-4342-a4dc-dc97a838a4ac)
 
 
 
-### <a id='two'>Which year has the most number of matches played?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/a67b03b0-0a3a-4238-80ee-636ee9cafc31)
+### <a id='six'>6.Which city has the best customers? Write a query that returns one city that has the highest sum of invoice totals.</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/3bfa74b0-455c-4cdb-8a3d-b186dd3f9831)
 
 
-### <a id='three'> Maximum wins by Mumbai Indians in 2011</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/510ce2ea-2ba1-4865-9b72-af33390f5899)
+### <a id='seven'>7.Who is the best customer? Write a query that returns the person who has spent the most money.</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/9bcc8d16-40bb-47f4-abea-99608344d320)
 
 
-### <a id='four'> What is the percentage of getting bat and field in feature 'toss_descision'?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/32237e1d-7d96-40f1-8b20-5f4f3bea92bf)
+### <a id='eight'>8.How many customers make repeat purchases?</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/b9a5260d-8b97-431e-b27a-5c28543d1dd7)
 
 
-### <a id='five'> In which years where taking batting second have won more number of matches?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/9ae8a434-9f52-4e2f-a7ba-ff85d35e5140)
+### <a id='nine'>9.Write a query that returns the Artist name and total track count of the top 10 rock bands.</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/d371746e-9ffd-4a6f-b815-1ee64f6c528d)
 
 
-### <a id='six'> In 2019 which batsman scored highest number of runs by hitting 6's and 4's?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/c17f9a22-7030-473d-b3b8-3cea8acf3eee)
+### <a id='ten'>10.What are the Top 10 selling tracks?</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/a7f7bf01-3b78-4d65-8f31-a1b069e83cf0)
 
 
-### <a id='seven'> Most number of wickets taken by a bowler</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/de627fdd-b5a3-43ca-9119-f70cec47500b)
+### <a id='eleven'>11.Find out the most popular music genre based on the quantity purchased?</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/c103b46e-ea19-4524-845f-65038b4f1222)
 
 
-### <a id='eight'> What is the strike rate of Kohli in 2016</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/28da4098-7893-4c4c-85e9-b2f28b7179c7)
-
-### <a id='nine'> Bowlers with maximum number of extras</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/d85dd9ff-67b7-45a0-9465-cca8f57c454b)
-
-### <a id='ten'> Which venue has hosted most number of IPL matches?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/6f5378ad-f637-4bf8-b03a-8406f0f3eee5)
-
-### <a id='eleven'> In 2017 when sunrisers hyderabad clashed against Royal Challengers Bangalore which team player won player of the match?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/07be7458-98cf-4ec0-90bc-e7385ca3cc21)
+### <a id='twelve'>12.Find out the least popular music genre based on the quantity purchased?</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/68f59649-bc38-4263-95ce-4ec492427971)
 
 
-### <a id='twelve'> Across seasons who are the top three batsman's with most number of run out?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/2d3897db-549a-4866-811a-ef5495c4604c)
-
-### <a id='thirteen'> What are the total runs scored by V Kohli when the bowler was JJ Burmah?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/ca32a382-882b-4aee-93dd-305d948d62e0)
-
-### <a id='fourteen'> Across all seasons which player was dismissed the maximum number of times via caught and bowled</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/4023a770-ba0b-4845-9e28-75c14541fcf3)
+### <a id='thirteen'>13.Find out the most popular music Genre for each country. We determine the most popular genre as the genre with the highest amount of purchases.</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/93ff4bb1-e5ff-44a3-ac90-46bd7cc19cdf)
 
 
-### <a id='fifteen'> Which player has the highest hard-hitting ability? </a> 
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/78add728-a216-4fe8-a473-7469213e8773)
+### <a id='fourteen'>14.Which tracks have shorter durations?.Suggest 10 short music tracks to your customers.</a>
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/cb086b81-e88f-478a-8489-28b1c43e452c)
+
+
+### <a id='fifteen'>15.Which tracks have longer durations?.Suggest 10 long music tracks to your customers.</a> 
+- ![image](https://github.com/UdayKadiyala19/Music-Store-Analysis-SQL/assets/142983782/96aa729f-528f-4252-bc96-18bf72370b3c)
+
