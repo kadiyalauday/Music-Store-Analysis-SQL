@@ -1,5 +1,6 @@
 # Music_Store_Analysis_SQL
-![image](https://github.com/UdayKadiyala19/Music_Store_Analysis_SQL/assets/142983782/0fbfbad3-79ea-48b8-81c2-8cfe9d4a4593)
+![image](https://github.com/UdayKadiyala19/Music_Store_Analysis_SQL/assets/142983782/7a904b18-9d87-41d7-8ebd-9f6c7b6d8d6f)
+
 
 
 ## Aim
