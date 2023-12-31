@@ -1,4 +1,6 @@
 # Music_Store_Analysis_SQL
+![image](https://github.com/UdayKadiyala19/Music_Store_Analysis_SQL/assets/142983782/0fbfbad3-79ea-48b8-81c2-8cfe9d4a4593)
+
 
 ## Aim
 This SQL project focuses on analyzing data from a music store database. The project aims to derive meaningful insights and answer various business-related questions through SQL queries and data analysis. The database contains information about customers, invoices, tracks, genres, and more.
