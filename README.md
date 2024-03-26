@@ -1,4 +1,4 @@
-# Music_Store_Analysis_SQL
+# Music Store Sales Analysis using SQL
 ![image](https://github.com/UdayKadiyala19/Music_Store_Analysis_SQL/assets/142983782/7a904b18-9d87-41d7-8ebd-9f6c7b6d8d6f)
 
 
